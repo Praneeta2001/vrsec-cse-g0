@@ -3,5 +3,6 @@
 void main()
 {
 printf("Hello");
+printf("praneeta");
 getch();
 }
