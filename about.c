@@ -4,5 +4,6 @@ void main()
 {
 printf("Hello");
 printf("praneeta");
+printf("second day");
 getch();
 }
